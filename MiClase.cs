@@ -24,7 +24,7 @@ namespace examen
 
             if (contador == 0)
             {
-                Console.WriteLine("No hay numeros positivos ni nrgativos");
+                Console.WriteLine("No hay numeros positivos ni negativos");
                 return 0;
             }
 
